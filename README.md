@@ -8,7 +8,7 @@ This repository serves as a curated collection of research listings specifically
 
 ## Resource
 
-- CLIP [[Page]](https://openai.com/blog/clip/), [[Paper]](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf), [[Code]](https://github.com/openai/CLIP), [[arXiv]](https://arxiv.org/pdf/2103.00020.pdf)
+- Ardupilot [[Paper]](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf), [[Code]](https://github.com/tridge/ardupilot.git)
 
 ## License
 
